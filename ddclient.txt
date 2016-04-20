@@ -1,0 +1,7 @@
+ssl=yes
+use=
+protocol=namecheap
+server=dynamicdns.park-your-domain.com
+login=yourdomain.com
+password='password'
+subdomain
